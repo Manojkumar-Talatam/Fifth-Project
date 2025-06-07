@@ -1,7 +1,7 @@
 Identified Protocols:
-1.DNS
-2.TCP
-3.TLS
-4.ARP
-5.IGMP
+1.DNS(Domain Name System)
+2.TCP(Transfer Control Protocol)
+3.TLS(Transfer Layer Security)
+4.ARP(Address Resoultion Protocol)
+5.IGMP(Internet Group Management Protocol)
 Access the analysis file through https://drive.google.com/file/d/1ey8hq7tfcjUjBqGwte0klyPgPjK314Ey/view?usp=drivesdk
